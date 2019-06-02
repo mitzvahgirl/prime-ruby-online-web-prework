@@ -2,5 +2,7 @@
 
 require prime
 
-def prime?()
+Prime.each(25) do (prime)
+  p prime
+end
   
